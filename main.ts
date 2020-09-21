@@ -14,6 +14,5 @@ basic.forever(function () {
         }
         radio.sendNumber(69)
         radio.sendString("intruder")
-        radio.sendString("Int.")
     }
 })
